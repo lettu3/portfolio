@@ -3,112 +3,144 @@
   <file source-language="es" target-language="en" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="1965201638872152312" datatype="html">
-        <source>Sobre mí</source>\n        <target>Sobre mí</target>\n        <target>About me</target>
+        <source>Sobre mí</source>
+        
+        <target>About me</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">13,14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5881867875806675893" datatype="html">
-        <source> Soy un desarrollador Full-Stack con experiencia profesional en el desarrollo de aplicaciones robustas y escalables. Mi stack principal incluye Java con Spring Boot en el backend, y React con TypeScript en el frontend, complementado con PostgreSQL y Docker para bases de datos y contenedorización. Además, cuento con conocimientos en C/C++, Haskell y Python adquiridos durante mi formación académica. </source>\n        <target> Soy un desarrollador Full-Stack con experiencia profesional en el desarrollo de aplicaciones robustas y escalables. Mi stack principal incluye Java con Spring Boot en el backend, y React con TypeScript en el frontend, complementado con PostgreSQL y Docker para bases de datos y contenedorización. Además, cuento con conocimientos en C/C++, Haskell y Python adquiridos durante mi formación académica. </target>\n        <target> I am a Full-Stack developer with professional experience in building robust and scalable applications. My main stack includes Java with Spring Boot on the backend, and React with TypeScript on the frontend, complemented by PostgreSQL and Docker for databases and containerization. Additionally, I have knowledge in C/C++, Haskell, and Python acquired during my academic training. </target>
+        <source> Soy un desarrollador Full-Stack con experiencia profesional en el desarrollo de aplicaciones robustas y escalables. Mi stack principal incluye Java con Spring Boot en el backend, y React con TypeScript en el frontend, complementado con PostgreSQL y Docker para bases de datos y contenedorización. Además, cuento con conocimientos en C/C++, Haskell y Python adquiridos durante mi formación académica. </source>
+        
+        <target> I am a Full-Stack developer with professional experience in building robust and scalable applications. My main stack includes Java with Spring Boot on the backend, and React with TypeScript on the frontend, complemented by PostgreSQL and Docker for databases and containerization. Additionally, I have knowledge in C/C++, Haskell, and Python acquired during my academic training. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7022538534877403607" datatype="html">
-        <source>Full-Stack</source>\n        <target>Full-Stack</target>\n        <target>Full-Stack</target>
+        <source>Full-Stack</source>
+        
+        <target>Full-Stack</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">29,30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3339072279834192756" datatype="html">
-        <source>Desarrollo End-to-End</source>\n        <target>Desarrollo End-to-End</target>\n        <target>End-to-End Development</target>
+        <source>Desarrollo End-to-End</source>
+        
+        <target>End-to-End Development</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">30,31</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7771312085503334135" datatype="html">
-        <source>Backend &amp; Frontend</source>\n        <target>Backend &amp; Frontend</target>\n        <target>Backend &amp; Frontend</target>
+        <source>Backend &amp; Frontend</source>
+        
+        <target>Backend &amp; Frontend</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">37,38</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8658355866117178608" datatype="html">
-        <source>Spring Boot / React</source>\n        <target>Spring Boot / React</target>\n        <target>Spring Boot / React</target>
+        <source>Spring Boot / React</source>
+        
+        <target>Spring Boot / React</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">38,39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6924910295189974768" datatype="html">
-        <source>+10 Tecnologías</source>\n        <target>+10 Tecnologías</target>\n        <target>+10 Technologies</target>
+        <source>+10 Tecnologías</source>
+        
+        <target>+10 Technologies</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">45,46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7210310860526069785" datatype="html">
-        <source>Dominio y aprendizaje continuo</source>\n        <target>Dominio y aprendizaje continuo</target>\n        <target>Mastery and continuous learning</target>
+        <source>Dominio y aprendizaje continuo</source>
+        
+        <target>Mastery and continuous learning</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">46,47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8433768950518578342" datatype="html">
-        <source>Contacto</source>\n        <target>Contacto</target>\n        <target>Contact</target>
+        <source>Contacto</source>
+        
+        <target>Contact</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">14,15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4795939142372272975" datatype="html">
-        <source>¿Tienes un proyecto en mente o quieres ponerte en contacto? Envíame un mensaje.</source>\n        <target>¿Tienes un proyecto en mente o quieres ponerte en contacto? Envíame un mensaje.</target>\n        <target>Do you have a project in mind or want to get in touch? Send me a message.</target>
+        <source>¿Tienes un proyecto en mente o quieres ponerte en contacto? Envíame un mensaje.</source>
+        
+        <target>Do you have a project in mind or want to get in touch? Send me a message.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">16,17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6994254857180957760" datatype="html">
-        <source>¡Mensaje preparado!</source>\n        <target>¡Mensaje preparado!</target>\n        <target>Message prepared!</target>
+        <source>¡Mensaje preparado!</source>
+        
+        <target>Message prepared!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">24,25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3813125850369548855" datatype="html">
-        <source>Se ha abierto tu cliente de correo para enviar el mensaje.</source>\n        <target>Se ha abierto tu cliente de correo para enviar el mensaje.</target>\n        <target>Your email client has been opened to send the message.</target>
+        <source>Se ha abierto tu cliente de correo para enviar el mensaje.</source>
+        
+        <target>Your email client has been opened to send the message.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">25,26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1389739975202023812" datatype="html">
-        <source>Enviar otro mensaje</source>\n        <target>Enviar otro mensaje</target>\n        <target>Send another message</target>
+        <source>Enviar otro mensaje</source>
+        
+        <target>Send another message</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">26,27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5357661269973482487" datatype="html">
-        <source>Nombre</source>\n        <target>Nombre</target>\n        <target>Name</target>
+        <source>Nombre</source>
+        
+        <target>Name</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">39,40</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8165394627161186491" datatype="html">
-        <source>El nombre es requerido</source>\n        <target>El nombre es requerido</target>\n        <target>Name is required</target>
+        <source>El nombre es requerido</source>
+        
+        <target>Name is required</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">41,42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4768749765465246664" datatype="html">
-        <source>Email</source>\n        <target>Email</target>\n        <target>Email</target>
+        <source>Email</source>
+        
+        <target>Email</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">54,55</context>
@@ -119,161 +151,207 @@
         </context-group>
       </trans-unit>
       <trans-unit id="41748171716359501" datatype="html">
-        <source><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> El email es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> El formato de email no es válido <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>\n        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> El email es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> El formato de email no es válido <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>\n        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> Email is required <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> Email format is invalid <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>
+        <source><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> El email es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> El formato de email no es válido <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>
+        
+        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> Email is required <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> Email format is invalid <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">57,62</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6181392829528060012" datatype="html">
-        <source>Mensaje</source>\n        <target>Mensaje</target>\n        <target>Message</target>
+        <source>Mensaje</source>
+        
+        <target>Message</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">75,76</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6923535194902116867" datatype="html">
-        <source><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> El mensaje es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> El mensaje debe tener al menos 10 caracteres <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>\n        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> El mensaje es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> El mensaje debe tener al menos 10 caracteres <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>\n        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> Message is required <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> Message must be at least 10 characters <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>
+        <source><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> El mensaje es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> El mensaje debe tener al menos 10 caracteres <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>
+        
+        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> Message is required <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> Message must be at least 10 characters <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">78,83</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4081188298628229997" datatype="html">
-        <source>Enviar Mensaje</source>\n        <target>Enviar Mensaje</target>\n        <target>Send Message</target>
+        <source>Enviar Mensaje</source>
+        
+        <target>Send Message</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">92,93</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8887144634091745639" datatype="html">
-        <source>Ubicación</source>\n        <target>Ubicación</target>\n        <target>Location</target>
+        <source>Ubicación</source>
+        
+        <target>Location</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">114,115</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3345180458902594903" datatype="html">
-        <source>Disponible para remoto</source>\n        <target>Disponible para remoto</target>\n        <target>Available for remote</target>
+        <source>Disponible para remoto</source>
+        
+        <target>Available for remote</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">115,116</context>
         </context-group>
       </trans-unit>
       <trans-unit id="586341112727268928" datatype="html">
-        <source>Hola, soy</source>\n        <target>Hola, soy</target>\n        <target>Hi, I am</target>
+        <source>Hola, soy</source>
+        
+        <target>Hi, I am</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">12,13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5268566727919727894" datatype="html">
-        <source>Full-Stack Developer. Java &amp; Spring Boot, React &amp; TypeScript. Building robust solutions.</source>\n        <target>Full-Stack Developer. Java &amp; Spring Boot, React &amp; TypeScript. Building robust solutions.</target>\n        <target>Full-Stack Developer. Java &amp; Spring Boot, React &amp; TypeScript. Building robust solutions.</target>
+        <source>Full-Stack Developer. Java &amp; Spring Boot, React &amp; TypeScript. Building robust solutions.</source>
+        
+        <target>Full-Stack Developer. Java &amp; Spring Boot, React &amp; TypeScript. Building robust solutions.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">21,23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2662175391927362397" datatype="html">
-        <source>Ver proyectos</source>\n        <target>Ver proyectos</target>\n        <target>View projects</target>
+        <source>Ver proyectos</source>
+        
+        <target>View projects</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">24,25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3878442273530047238" datatype="html">
-        <source>Contactame</source>\n        <target>Contactame</target>\n        <target>Contact me</target>
+        <source>Contactame</source>
+        
+        <target>Contact me</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">25,26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="40605728239482165" datatype="html">
-        <source>Full-Stack Developer</source>\n        <target>Full-Stack Developer</target>\n        <target>Full-Stack Developer</target>
+        <source>Full-Stack Developer</source>
+        
+        <target>Full-Stack Developer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">231</context>
         </context-group>
       </trans-unit>
       <trans-unit id="591289528417833004" datatype="html">
-        <source>Java &amp; Spring Boot</source>\n        <target>Java &amp; Spring Boot</target>\n        <target>Java &amp; Spring Boot</target>
+        <source>Java &amp; Spring Boot</source>
+        
+        <target>Java &amp; Spring Boot</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">232</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6886904295655838582" datatype="html">
-        <source>React &amp; TypeScript</source>\n        <target>React &amp; TypeScript</target>\n        <target>React &amp; TypeScript</target>
+        <source>React &amp; TypeScript</source>
+        
+        <target>React &amp; TypeScript</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">233</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2483987301111602721" datatype="html">
-        <source>Building robust solutions</source>\n        <target>Building robust solutions</target>\n        <target>Building robust solutions</target>
+        <source>Building robust solutions</source>
+        
+        <target>Building robust solutions</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">234</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1335856984569603868" datatype="html">
-        <source>Ver demo de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></source>\n        <target>Ver demo de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></target>\n        <target>View demo of <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></target>
+        <source>Ver demo de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></source>
+        
+        <target>View demo of <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
           <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5886792202999625261" datatype="html">
-        <source>Demo</source>\n        <target>Demo</target>\n        <target>Demo</target>
+        <source>Demo</source>
+        
+        <target>Demo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
           <context context-type="linenumber">31,32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6601793690696491686" datatype="html">
-        <source>Ver código de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></source>\n        <target>Ver código de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></target>\n        <target>View code of <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></target>
+        <source>Ver código de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></source>
+        
+        <target>View code of <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
           <context context-type="linenumber">39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8092481494731054331" datatype="html">
-        <source>Código</source>\n        <target>Código</target>\n        <target>Code</target>
+        <source>Código</source>
+        
+        <target>Code</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
           <context context-type="linenumber">40,41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1872099000671699527" datatype="html">
-        <source>Proyectos</source>\n        <target>Proyectos</target>\n        <target>Projects</target>
+        <source>Proyectos</source>
+        
+        <target>Projects</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/projects.ts</context>
           <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4908869653353501235" datatype="html">
-        <source>Algunos de mis trabajos destacados</source>\n        <target>Algunos de mis trabajos destacados</target>\n        <target>Some of my featured work</target>
+        <source>Algunos de mis trabajos destacados</source>
+        
+        <target>Some of my featured work</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/projects.ts</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6730348805420511260" datatype="html">
-        <source>Profesional</source>\n        <target>Profesional</target>\n        <target>Professional</target>
+        <source>Profesional</source>
+        
+        <target>Professional</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">17,18</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3308055000439062132" datatype="html">
-        <source>Académico</source>\n        <target>Académico</target>\n        <target>Academic</target>
+        <source>Académico</source>
+        
+        <target>Academic</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">19,20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1360286660327265296" datatype="html">
-        <source>Backend</source>\n        <target>Backend</target>\n        <target>Backend</target>
+        <source>Backend</source>
+        
+        <target>Backend</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">107</context>
@@ -284,7 +362,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="103220111367852293" datatype="html">
-        <source>Frontend</source>\n        <target>Frontend</target>\n        <target>Frontend</target>
+        <source>Frontend</source>
+        
+        <target>Frontend</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">108</context>
@@ -295,7 +375,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7607104788059971606" datatype="html">
-        <source>DevOps</source>\n        <target>DevOps</target>\n        <target>DevOps</target>
+        <source>DevOps</source>
+        
+        <target>DevOps</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">109</context>
@@ -306,7 +388,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3873574663888667958" datatype="html">
-        <source>Lenguajes</source>\n        <target>Lenguajes</target>\n        <target>Languages</target>
+        <source>Lenguajes</source>
+        
+        <target>Languages</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">110</context>
@@ -317,133 +401,171 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4546458009532801804" datatype="html">
-        <source>Tecnologías</source>\n        <target>Tecnologías</target>\n        <target>Technologies</target>
+        <source>Tecnologías</source>
+        
+        <target>Technologies</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5450863118931231956" datatype="html">
-        <source>Mostrar todas las tecnologías</source>\n        <target>Mostrar todas las tecnologías</target>\n        <target>Show all technologies</target>
+        <source>Mostrar todas las tecnologías</source>
+        
+        <target>Show all technologies</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4030076799559469157" datatype="html">
-        <source>Todas</source>\n        <target>Todas</target>\n        <target>All</target>
+        <source>Todas</source>
+        
+        <target>All</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">28,29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5289556111484252835" datatype="html">
-        <source>Mostrar tecnologías Backend</source>\n        <target>Mostrar tecnologías Backend</target>\n        <target>Show Backend technologies</target>
+        <source>Mostrar tecnologías Backend</source>
+        
+        <target>Show Backend technologies</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="244912182611700660" datatype="html">
-        <source>Mostrar tecnologías Frontend</source>\n        <target>Mostrar tecnologías Frontend</target>\n        <target>Show Frontend technologies</target>
+        <source>Mostrar tecnologías Frontend</source>
+        
+        <target>Show Frontend technologies</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="945099354407511343" datatype="html">
-        <source>Mostrar tecnologías DevOps</source>\n        <target>Mostrar tecnologías DevOps</target>\n        <target>Show DevOps technologies</target>
+        <source>Mostrar tecnologías DevOps</source>
+        
+        <target>Show DevOps technologies</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3601128261790248328" datatype="html">
-        <source>Mostrar lenguajes de programación</source>\n        <target>Mostrar lenguajes de programación</target>\n        <target>Show programming languages</target>
+        <source>Mostrar lenguajes de programación</source>
+        
+        <target>Show programming languages</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">67</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9024512923600648194" datatype="html">
-        <source>© 2026 Ignacio Gomez Barrios</source>\n        <target>© 2026 Ignacio Gomez Barrios</target>\n        <target>© 2026 Ignacio Gomez Barrios</target>
+        <source>© 2026 Ignacio Gomez Barrios</source>
+        
+        <target>© 2026 Ignacio Gomez Barrios</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/footer/footer.ts</context>
           <context context-type="linenumber">10,11</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1923707058458854709" datatype="html">
-        <source>Perfil de GitHub</source>\n        <target>Perfil de GitHub</target>\n        <target>GitHub Profile</target>
+        <source>Perfil de GitHub</source>
+        
+        <target>GitHub Profile</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/footer/footer.ts</context>
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1735508094005034957" datatype="html">
-        <source>Perfil de LinkedIn</source>\n        <target>Perfil de LinkedIn</target>\n        <target>LinkedIn Profile</target>
+        <source>Perfil de LinkedIn</source>
+        
+        <target>LinkedIn Profile</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/footer/footer.ts</context>
           <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1147850309248962084" datatype="html">
-        <source>Cambiar idioma</source>\n        <target>Cambiar idioma</target>\n        <target>Change language</target>
+        <source>Cambiar idioma</source>
+        
+        <target>Change language</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">36</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.home" datatype="html">
-        <source>Inicio</source>\n        <target>Inicio</target>\n        <target>Home</target>
+        <source>Inicio</source>
+        
+        <target>Home</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">289</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.about" datatype="html">
-        <source>Sobre mí</source>\n        <target>Sobre mí</target>\n        <target>About me</target>
+        <source>Sobre mí</source>
+        
+        <target>About me</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">290</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.tech" datatype="html">
-        <source>Tecnologías</source>\n        <target>Tecnologías</target>\n        <target>Technologies</target>
+        <source>Tecnologías</source>
+        
+        <target>Technologies</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">291</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.projects" datatype="html">
-        <source>Proyectos</source>\n        <target>Proyectos</target>\n        <target>Projects</target>
+        <source>Proyectos</source>
+        
+        <target>Projects</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">292</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.contact" datatype="html">
-        <source>Contacto</source>\n        <target>Contacto</target>\n        <target>Contact</target>
+        <source>Contacto</source>
+        
+        <target>Contact</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">293</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1861697445573597012" datatype="html">
-        <source>E-Commerce API</source>\n        <target>E-Commerce API</target>\n        <target>E-Commerce API</target>
+        <source>E-Commerce API</source>
+        
+        <target>E-Commerce API</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3126302786751252506" datatype="html">
-        <source>REST API for an e-commerce platform featuring product management, cart functionality, and order processing.</source>\n        <target>REST API for an e-commerce platform featuring product management, cart functionality, and order processing.</target>\n        <target>REST API for an e-commerce platform featuring product management, cart functionality, and order processing.</target>
+        <source>REST API for an e-commerce platform featuring product management, cart functionality, and order processing.</source>
+        
+        <target>REST API for an e-commerce platform featuring product management, cart functionality, and order processing.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8873090078516767133" datatype="html">
-        <source>Spring Boot</source>\n        <target>Spring Boot</target>\n        <target>Spring Boot</target>
+        <source>Spring Boot</source>
+        
+        <target>Spring Boot</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">7</context>
@@ -454,7 +576,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4041240970545586823" datatype="html">
-        <source>PostgreSQL</source>\n        <target>PostgreSQL</target>\n        <target>PostgreSQL</target>
+        <source>PostgreSQL</source>
+        
+        <target>PostgreSQL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">7</context>
@@ -465,7 +589,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6317081326606931897" datatype="html">
-        <source>Docker</source>\n        <target>Docker</target>\n        <target>Docker</target>
+        <source>Docker</source>
+        
+        <target>Docker</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">7</context>
@@ -476,21 +602,27 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3245757996551726314" datatype="html">
-        <source>Task Management App</source>\n        <target>Task Management App</target>\n        <target>Task Management App</target>
+        <source>Task Management App</source>
+        
+        <target>Task Management App</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8012783827381907570" datatype="html">
-        <source>A Kanban-style task manager allowing users to organize their workflow with drag-and-drop support.</source>\n        <target>A Kanban-style task manager allowing users to organize their workflow with drag-and-drop support.</target>\n        <target>A Kanban-style task manager allowing users to organize their workflow with drag-and-drop support.</target>
+        <source>A Kanban-style task manager allowing users to organize their workflow with drag-and-drop support.</source>
+        
+        <target>A Kanban-style task manager allowing users to organize their workflow with drag-and-drop support.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1407426312530771175" datatype="html">
-        <source>React</source>\n        <target>React</target>\n        <target>React</target>
+        <source>React</source>
+        
+        <target>React</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">15</context>
@@ -501,7 +633,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4845793289318766506" datatype="html">
-        <source>TypeScript</source>\n        <target>TypeScript</target>\n        <target>TypeScript</target>
+        <source>TypeScript</source>
+        
+        <target>TypeScript</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">15</context>
@@ -516,21 +650,27 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4099802856264938736" datatype="html">
-        <source>Real-Time Chat</source>\n        <target>Real-Time Chat</target>\n        <target>Real-Time Chat</target>
+        <source>Real-Time Chat</source>
+        
+        <target>Real-Time Chat</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2350437754125245903" datatype="html">
-        <source>Real-time messaging application enabling concurrent user communication via WebSockets.</source>\n        <target>Real-time messaging application enabling concurrent user communication via WebSockets.</target>\n        <target>Real-time messaging application enabling concurrent user communication via WebSockets.</target>
+        <source>Real-time messaging application enabling concurrent user communication via WebSockets.</source>
+        
+        <target>Real-time messaging application enabling concurrent user communication via WebSockets.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5413844363031604083" datatype="html">
-        <source>Java</source>\n        <target>Java</target>\n        <target>Java</target>
+        <source>Java</source>
+        
+        <target>Java</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">23</context>
@@ -541,28 +681,36 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7619965833944259173" datatype="html">
-        <source>WebSockets</source>\n        <target>WebSockets</target>\n        <target>WebSockets</target>
+        <source>WebSockets</source>
+        
+        <target>WebSockets</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9007818352657190226" datatype="html">
-        <source>Portfolio Website</source>\n        <target>Portfolio Website</target>\n        <target>Portfolio Website</target>
+        <source>Portfolio Website</source>
+        
+        <target>Portfolio Website</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4453039167371264070" datatype="html">
-        <source>Personal developer portfolio built with modern Angular, featuring standalone components and signals.</source>\n        <target>Personal developer portfolio built with modern Angular, featuring standalone components and signals.</target>\n        <target>Personal developer portfolio built with modern Angular, featuring standalone components and signals.</target>
+        <source>Personal developer portfolio built with modern Angular, featuring standalone components and signals.</source>
+        
+        <target>Personal developer portfolio built with modern Angular, featuring standalone components and signals.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8413653130434546022" datatype="html">
-        <source>Angular</source>\n        <target>Angular</target>\n        <target>Angular</target>
+        <source>Angular</source>
+        
+        <target>Angular</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">31</context>
@@ -573,24 +721,246 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7956298290621746062" datatype="html">
-        <source>C/C++</source>\n        <target>C/C++</target>\n        <target>C/C++</target>
+        <source>C/C++</source>
+        
+        <target>C/C++</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8836639825994763424" datatype="html">
-        <source>Haskell</source>\n        <target>Haskell</target>\n        <target>Haskell</target>
+        <source>Haskell</source>
+        
+        <target>Haskell</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7017719389022483276" datatype="html">
-        <source>Python</source>\n        <target>Python</target>\n        <target>Python</target>
+        <source>Python</source>
+        
+        <target>Python</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
           <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    <trans-unit id="146442697456175258" datatype="html">
+        <source>Data</source>
+        <target>Data</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="1002165214775409029" datatype="html">
+        <source>Mobile</source>
+        <target>Mobile</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="1653455811146928640" datatype="html">
+        <source>Código privado</source>
+        <target>Private Code</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">82,83</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="5349515804446463106" datatype="html">
+        <source>Generación de Contenido con IA</source>
+        <target>AI Content Generation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="605988419966448161" datatype="html">
+        <source>Módulo de generación de contenido visual con inteligencia artificial, desarrollado en Inverte. Integra la API de OpenAI para generación de imágenes, creación de logos con vectorización automática a SVG y virtual staging de propiedades (amueblado y limpieza de fotos con IA). Incluye presets de estilo, enriquecimiento automático de contexto con datos del proyecto y sistema de metering con límites mensuales por usuario.</source>
+        <target>AI-powered visual content generation module developed at Inverte. Integrates OpenAI API for image generation, logo creation with automatic SVG vectorization, and virtual property staging (AI furnishing and photo cleaning). Includes style presets, automatic context enrichment with project data, and a metering system with monthly limits per user.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="6126112055175321315" datatype="html">
+        <source>CRM Inmobiliario</source>
+        <target>Real Estate CRM</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="7615135394524911867" datatype="html">
+        <source>Módulo CRM inmobiliario full-stack desarrollado en Inverte. Incluye tablero Kanban drag &amp; drop para seguimiento de leads con distintos estados, libreta de contactos con búsqueda y filtrado, registro de actividades por lead y generación automática de leads cuando los clientes se contactan desde las planimetrías web — integrando el frontend 3D con el pipeline comercial mediante API REST segura con API Keys.</source>
+        <target>Full-stack real estate CRM module developed at Inverte. Includes a drag & drop Kanban board for lead tracking with different statuses, an address book with search and filtering, lead activity logging, and automatic lead generation when clients contact from web planimetries — integrating the 3D frontend with the sales pipeline via a secure REST API with API Keys.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="5024325702730787849" datatype="html">
+        <source>Planimetría Interactiva de Edificio</source>
+        <target>Interactive Building Planimetry</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="6012803969780568874" datatype="html">
+        <source>Aplicación web profesional desarrollada en Inverte para visualización inmobiliaria. Integra un modelo 3D WebGL del edificio (PlayCanvas) con una vista panorámica 360° del entorno y actualizaciones de disponibilidad en tiempo real vía WebSockets. Permite consultar unidades, ver estados (disponible, reservado, vendido, etc.) y contactar brokers, todo desde un entorno 3D inmersivo.</source>
+        <target>Professional web application developed at Inverte for real estate visualization. Integrates a 3D WebGL model of the building (PlayCanvas) with a 360° panoramic view of the surroundings and real-time availability updates via WebSockets. Allows users to query units, view statuses (available, reserved, sold, etc.), and contact brokers, all from an immersive 3D environment.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="6789318425020365735" datatype="html">
+        <source>El Switcher</source>
+        <target>The Switcher</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="7281483517503203752" datatype="html">
+        <source>Desarrollo del juego de mesa &quot;El Switcher&quot; usando metodología ágil SCRUM. División frontend/backend con equipo de 6 integrantes para la materia Ingeniería del Software I.</source>
+        <target>Development of 'The Switcher' board game using SCRUM agile methodology. Frontend/backend split with a 6-member team for the Software Engineering I course.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="1442330103399790944" datatype="html">
+        <source>Java RSS Pipeline</source>
+        <target>Java RSS Pipeline</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="4589701172664233166" datatype="html">
+        <source>Pipeline de extracción de datos de feeds RSS de noticias que computa entidades nombradas. Incluye implementación paralela con Apache Spark para procesamiento distribuido.</source>
+        <target>News RSS feed data extraction pipeline that computes named entities. Includes parallel implementation with Apache Spark for distributed processing.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="7728947602399315514" datatype="html">
+        <source>Escher DSL</source>
+        <target>Escher DSL</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="2953787182376820776" datatype="html">
+        <source>Diseño e implementación de un DSL en Haskell que permite generar figuras recursivas al estilo de M.C. Escher, componiendo transformaciones geométricas sobre figuras base.</source>
+        <target>Design and implementation of a DSL in Haskell that allows generating recursive figures in the style of M.C. Escher by composing geometric transformations on base figures.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="3154847389233789472" datatype="html">
+        <source>MyBash</source>
+        <target>MyBash</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="214989186588302568" datatype="html">
+        <source>Codificación de un shell al estilo Bash en C. Soporta ejecución de comandos en foreground y background, redirección de entrada/salida estándar, y pipes entre comandos.</source>
+        <target>Coding of a Bash-style shell in C. Supports foreground and background command execution, standard input/output redirection, and pipes between commands.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="402806455542946598" datatype="html">
+        <source>ARM Videogame</source>
+        <target>ARM Videogame</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="2304826755539487523" datatype="html">
+        <source>Implementación del clásico juego del dinosaurio de Google Chrome en LEGv8 Assembly. Proyecto académico de Organización del Computador usando framebuffer en QEMU emulando una Raspberry Pi.</source>
+        <target>Implementation of the classic Google Chrome dinosaur game in LEGv8 Assembly. Academic Computer Organization project using framebuffer in QEMU emulating a Raspberry Pi.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="877312088046441452" datatype="html">
+        <source>Ciudad de Córdoba, Argentina.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Disponible para remoto.</source>
+        <target>Córdoba City, Argentina.<x id="LINE_BREAK" equiv-text="&lt;br/&gt;"/>Available for remote work.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
+          <context context-type="linenumber">118,119</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="4224149246866287197" datatype="html">
+        <source>Saltar al contenido principal</source>
+        <target>Skip to main content</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/layout.ts</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="2991285369465640343" datatype="html">
+        <source>Full-Stack Developer.</source>
+        <target>Full-Stack Developer.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
+          <context context-type="linenumber">21,23</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="5822555259572531358" datatype="html">
+        <source>PlayCanvas</source>
+        <target>PlayCanvas</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="6324504154415530832" datatype="html">
+        <source>Redux</source>
+        <target>Redux</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="3636930811048814547" datatype="html">
+        <source>SQLite</source>
+        <target>SQLite</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="2513107783682041353" datatype="html">
+        <source>Systems</source>
+        <target>Systems</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="4855224718084434266" datatype="html">
+        <source>Functional</source>
+        <target>Functional</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
     </body>
