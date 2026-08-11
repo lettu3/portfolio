@@ -3,112 +3,144 @@
   <file source-language="es" target-language="ja" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="1965201638872152312" datatype="html">
-        <source>Sobre mí</source>\n        <target>Sobre mí</target>\n        <target>私について</target>
+        <source>Sobre mí</source>
+        
+        <target>私について</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">13,14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5881867875806675893" datatype="html">
-        <source> Soy un desarrollador Full-Stack con experiencia profesional en el desarrollo de aplicaciones robustas y escalables. Mi stack principal incluye Java con Spring Boot en el backend, y React con TypeScript en el frontend, complementado con PostgreSQL y Docker para bases de datos y contenedorización. Además, cuento con conocimientos en C/C++, Haskell y Python adquiridos durante mi formación académica. </source>\n        <target> Soy un desarrollador Full-Stack con experiencia profesional en el desarrollo de aplicaciones robustas y escalables. Mi stack principal incluye Java con Spring Boot en el backend, y React con TypeScript en el frontend, complementado con PostgreSQL y Docker para bases de datos y contenedorización. Además, cuento con conocimientos en C/C++, Haskell y Python adquiridos durante mi formación académica. </target>\n        <target> 私は、堅牢でスケーラブルなアプリケーションの構築に専門的な経験を持つフルスタック開発者です。メインのスタックには、バックエンドのJavaとSpring Boot、フロントエンドのReactとTypeScriptが含まれており、データベースとコンテナ化のためのPostgreSQLとDockerで補完されています。さらに、学業で習得したC/C++、Haskell、Pythonの知識もあります。 </target>
+        <source> Soy un desarrollador Full-Stack con experiencia profesional en el desarrollo de aplicaciones robustas y escalables. Mi stack principal incluye Java con Spring Boot en el backend, y React con TypeScript en el frontend, complementado con PostgreSQL y Docker para bases de datos y contenedorización. Además, cuento con conocimientos en C/C++, Haskell y Python adquiridos durante mi formación académica. </source>
+        
+        <target> 私は、堅牢でスケーラブルなアプリケーションの構築に専門的な経験を持つフルスタック開発者です。メインのスタックには、バックエンドのJavaとSpring Boot、フロントエンドのReactとTypeScriptが含まれており、データベースとコンテナ化のためのPostgreSQLとDockerで補完されています。さらに、学業で習得したC/C++、Haskell、Pythonの知識もあります。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7022538534877403607" datatype="html">
-        <source>Full-Stack</source>\n        <target>Full-Stack</target>\n        <target>フルスタック</target>
+        <source>Full-Stack</source>
+        
+        <target>フルスタック</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">29,30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3339072279834192756" datatype="html">
-        <source>Desarrollo End-to-End</source>\n        <target>Desarrollo End-to-End</target>\n        <target>エンドツーエンド開発</target>
+        <source>Desarrollo End-to-End</source>
+        
+        <target>エンドツーエンド開発</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">30,31</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7771312085503334135" datatype="html">
-        <source>Backend &amp; Frontend</source>\n        <target>Backend &amp; Frontend</target>\n        <target>バックエンド &amp; フロントエンド</target>
+        <source>Backend &amp; Frontend</source>
+        
+        <target>バックエンド &amp; フロントエンド</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">37,38</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8658355866117178608" datatype="html">
-        <source>Spring Boot / React</source>\n        <target>Spring Boot / React</target>\n        <target>Spring Boot / React</target>
+        <source>Spring Boot / React</source>
+        
+        <target>Spring Boot / React</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">38,39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6924910295189974768" datatype="html">
-        <source>+10 Tecnologías</source>\n        <target>+10 Tecnologías</target>\n        <target>+10 テクノロジー</target>
+        <source>+10 Tecnologías</source>
+        
+        <target>+10 テクノロジー</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">45,46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7210310860526069785" datatype="html">
-        <source>Dominio y aprendizaje continuo</source>\n        <target>Dominio y aprendizaje continuo</target>\n        <target>習熟と継続的な学習</target>
+        <source>Dominio y aprendizaje continuo</source>
+        
+        <target>習熟と継続的な学習</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/about/about.ts</context>
           <context context-type="linenumber">46,47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8433768950518578342" datatype="html">
-        <source>Contacto</source>\n        <target>Contacto</target>\n        <target>お問い合わせ</target>
+        <source>Contacto</source>
+        
+        <target>お問い合わせ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">14,15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4795939142372272975" datatype="html">
-        <source>¿Tienes un proyecto en mente o quieres ponerte en contacto? Envíame un mensaje.</source>\n        <target>¿Tienes un proyecto en mente o quieres ponerte en contacto? Envíame un mensaje.</target>\n        <target>プロジェクトのアイデアがありますか、それとも連絡を取りたいですか？メッセージを送ってください。</target>
+        <source>¿Tienes un proyecto en mente o quieres ponerte en contacto? Envíame un mensaje.</source>
+        
+        <target>プロジェクトのアイデアがありますか、それとも連絡を取りたいですか？メッセージを送ってください。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">16,17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6994254857180957760" datatype="html">
-        <source>¡Mensaje preparado!</source>\n        <target>¡Mensaje preparado!</target>\n        <target>メッセージの準備ができました！</target>
+        <source>¡Mensaje preparado!</source>
+        
+        <target>メッセージの準備ができました！</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">24,25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3813125850369548855" datatype="html">
-        <source>Se ha abierto tu cliente de correo para enviar el mensaje.</source>\n        <target>Se ha abierto tu cliente de correo para enviar el mensaje.</target>\n        <target>メッセージを送信するためにメールクライアントが開きました。</target>
+        <source>Se ha abierto tu cliente de correo para enviar el mensaje.</source>
+        
+        <target>メッセージを送信するためにメールクライアントが開きました。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">25,26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1389739975202023812" datatype="html">
-        <source>Enviar otro mensaje</source>\n        <target>Enviar otro mensaje</target>\n        <target>別のメッセージを送信</target>
+        <source>Enviar otro mensaje</source>
+        
+        <target>別のメッセージを送信</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">26,27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5357661269973482487" datatype="html">
-        <source>Nombre</source>\n        <target>Nombre</target>\n        <target>名前</target>
+        <source>Nombre</source>
+        
+        <target>名前</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">39,40</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8165394627161186491" datatype="html">
-        <source>El nombre es requerido</source>\n        <target>El nombre es requerido</target>\n        <target>名前は必須です</target>
+        <source>El nombre es requerido</source>
+        
+        <target>名前は必須です</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">41,42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4768749765465246664" datatype="html">
-        <source>Email</source>\n        <target>Email</target>\n        <target>メール</target>
+        <source>Email</source>
+        
+        <target>メール</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">54,55</context>
@@ -119,161 +151,207 @@
         </context-group>
       </trans-unit>
       <trans-unit id="41748171716359501" datatype="html">
-        <source><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> El email es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> El formato de email no es válido <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>\n        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> El email es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> El formato de email no es válido <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>\n        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> メールは必須です <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> メールの形式が無効です <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>
+        <source><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> El email es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> El formato de email no es válido <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>
+        
+        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;required&apos;]) {"/> メールは必須です <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;email&apos;)?.errors?.[&apos;email&apos;]) {"/> メールの形式が無効です <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">57,62</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6181392829528060012" datatype="html">
-        <source>Mensaje</source>\n        <target>Mensaje</target>\n        <target>メッセージ</target>
+        <source>Mensaje</source>
+        
+        <target>メッセージ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">75,76</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6923535194902116867" datatype="html">
-        <source><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> El mensaje es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> El mensaje debe tener al menos 10 caracteres <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>\n        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> El mensaje es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> El mensaje debe tener al menos 10 caracteres <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>\n        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> メッセージは必須です <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> メッセージは少なくとも10文字である必要があります <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>
+        <source><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> El mensaje es requerido <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> El mensaje debe tener al menos 10 caracteres <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>
+        
+        <target><x id="START_BLOCK_IF" equiv-text="@if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;required&apos;]) {"/> メッセージは必須です <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (contactForm.get(&apos;mensaje&apos;)?.errors?.[&apos;minlength&apos;]) {"/> メッセージは少なくとも10文字である必要があります <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">78,83</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4081188298628229997" datatype="html">
-        <source>Enviar Mensaje</source>\n        <target>Enviar Mensaje</target>\n        <target>メッセージを送信</target>
+        <source>Enviar Mensaje</source>
+        
+        <target>メッセージを送信</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">92,93</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8887144634091745639" datatype="html">
-        <source>Ubicación</source>\n        <target>Ubicación</target>\n        <target>場所</target>
+        <source>Ubicación</source>
+        
+        <target>場所</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">114,115</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3345180458902594903" datatype="html">
-        <source>Disponible para remoto</source>\n        <target>Disponible para remoto</target>\n        <target>リモート対応可能</target>
+        <source>Disponible para remoto</source>
+        
+        <target>リモート対応可能</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
           <context context-type="linenumber">115,116</context>
         </context-group>
       </trans-unit>
       <trans-unit id="586341112727268928" datatype="html">
-        <source>Hola, soy</source>\n        <target>Hola, soy</target>\n        <target>こんにちは、私は</target>
+        <source>Hola, soy</source>
+        
+        <target>こんにちは、私は</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">12,13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5268566727919727894" datatype="html">
-        <source>Full-Stack Developer. Java &amp; Spring Boot, React &amp; TypeScript. Building robust solutions.</source>\n        <target>Full-Stack Developer. Java &amp; Spring Boot, React &amp; TypeScript. Building robust solutions.</target>\n        <target>フルスタック開発者。JavaとSpring Boot、ReactとTypeScript。堅牢なソリューションを構築します。</target>
+        <source>Full-Stack Developer. Java &amp; Spring Boot, React &amp; TypeScript. Building robust solutions.</source>
+        
+        <target>フルスタック開発者。JavaとSpring Boot、ReactとTypeScript。堅牢なソリューションを構築します。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">21,23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2662175391927362397" datatype="html">
-        <source>Ver proyectos</source>\n        <target>Ver proyectos</target>\n        <target>プロジェクトを見る</target>
+        <source>Ver proyectos</source>
+        
+        <target>プロジェクトを見る</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">24,25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3878442273530047238" datatype="html">
-        <source>Contactame</source>\n        <target>Contactame</target>\n        <target>連絡する</target>
+        <source>Contactame</source>
+        
+        <target>連絡する</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">25,26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="40605728239482165" datatype="html">
-        <source>Full-Stack Developer</source>\n        <target>Full-Stack Developer</target>\n        <target>フルスタック開発者</target>
+        <source>Full-Stack Developer</source>
+        
+        <target>フルスタック開発者</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">231</context>
         </context-group>
       </trans-unit>
       <trans-unit id="591289528417833004" datatype="html">
-        <source>Java &amp; Spring Boot</source>\n        <target>Java &amp; Spring Boot</target>\n        <target>Java &amp; Spring Boot</target>
+        <source>Java &amp; Spring Boot</source>
+        
+        <target>Java &amp; Spring Boot</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">232</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6886904295655838582" datatype="html">
-        <source>React &amp; TypeScript</source>\n        <target>React &amp; TypeScript</target>\n        <target>React &amp; TypeScript</target>
+        <source>React &amp; TypeScript</source>
+        
+        <target>React &amp; TypeScript</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">233</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2483987301111602721" datatype="html">
-        <source>Building robust solutions</source>\n        <target>Building robust solutions</target>\n        <target>堅牢なソリューションの構築</target>
+        <source>Building robust solutions</source>
+        
+        <target>堅牢なソリューションの構築</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
           <context context-type="linenumber">234</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1335856984569603868" datatype="html">
-        <source>Ver demo de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></source>\n        <target>Ver demo de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></target>\n        <target><x id="INTERPOLATION" equiv-text="{{ project().title }}"/>のデモを見る</target>
+        <source>Ver demo de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></source>
+        
+        <target><x id="INTERPOLATION" equiv-text="{{ project().title }}"/>のデモを見る</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
           <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5886792202999625261" datatype="html">
-        <source>Demo</source>\n        <target>Demo</target>\n        <target>デモ</target>
+        <source>Demo</source>
+        
+        <target>デモ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
           <context context-type="linenumber">31,32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6601793690696491686" datatype="html">
-        <source>Ver código de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></source>\n        <target>Ver código de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></target>\n        <target><x id="INTERPOLATION" equiv-text="{{ project().title }}"/>のコードを見る</target>
+        <source>Ver código de <x id="INTERPOLATION" equiv-text="{{ project().title }}"/></source>
+        
+        <target><x id="INTERPOLATION" equiv-text="{{ project().title }}"/>のコードを見る</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
           <context context-type="linenumber">39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8092481494731054331" datatype="html">
-        <source>Código</source>\n        <target>Código</target>\n        <target>コード</target>
+        <source>Código</source>
+        
+        <target>コード</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
           <context context-type="linenumber">40,41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1872099000671699527" datatype="html">
-        <source>Proyectos</source>\n        <target>Proyectos</target>\n        <target>プロジェクト</target>
+        <source>Proyectos</source>
+        
+        <target>プロジェクト</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/projects.ts</context>
           <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4908869653353501235" datatype="html">
-        <source>Algunos de mis trabajos destacados</source>\n        <target>Algunos de mis trabajos destacados</target>\n        <target>注目の作品</target>
+        <source>Algunos de mis trabajos destacados</source>
+        
+        <target>注目の作品</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/projects/projects.ts</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6730348805420511260" datatype="html">
-        <source>Profesional</source>\n        <target>Profesional</target>\n        <target>プロフェッショナル</target>
+        <source>Profesional</source>
+        
+        <target>プロフェッショナル</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">17,18</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3308055000439062132" datatype="html">
-        <source>Académico</source>\n        <target>Académico</target>\n        <target>アカデミック</target>
+        <source>Académico</source>
+        
+        <target>アカデミック</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">19,20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1360286660327265296" datatype="html">
-        <source>Backend</source>\n        <target>Backend</target>\n        <target>バックエンド</target>
+        <source>Backend</source>
+        
+        <target>バックエンド</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">107</context>
@@ -284,7 +362,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="103220111367852293" datatype="html">
-        <source>Frontend</source>\n        <target>Frontend</target>\n        <target>フロントエンド</target>
+        <source>Frontend</source>
+        
+        <target>フロントエンド</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">108</context>
@@ -295,7 +375,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7607104788059971606" datatype="html">
-        <source>DevOps</source>\n        <target>DevOps</target>\n        <target>DevOps</target>
+        <source>DevOps</source>
+        
+        <target>DevOps</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">109</context>
@@ -306,7 +388,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3873574663888667958" datatype="html">
-        <source>Lenguajes</source>\n        <target>Lenguajes</target>\n        <target>言語</target>
+        <source>Lenguajes</source>
+        
+        <target>言語</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-card.ts</context>
           <context context-type="linenumber">110</context>
@@ -317,133 +401,171 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4546458009532801804" datatype="html">
-        <source>Tecnologías</source>\n        <target>Tecnologías</target>\n        <target>テクノロジー</target>
+        <source>Tecnologías</source>
+        
+        <target>テクノロジー</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5450863118931231956" datatype="html">
-        <source>Mostrar todas las tecnologías</source>\n        <target>Mostrar todas las tecnologías</target>\n        <target>すべてのテクノロジーを表示</target>
+        <source>Mostrar todas las tecnologías</source>
+        
+        <target>すべてのテクノロジーを表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4030076799559469157" datatype="html">
-        <source>Todas</source>\n        <target>Todas</target>\n        <target>すべて</target>
+        <source>Todas</source>
+        
+        <target>すべて</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">28,29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5289556111484252835" datatype="html">
-        <source>Mostrar tecnologías Backend</source>\n        <target>Mostrar tecnologías Backend</target>\n        <target>バックエンドテクノロジーを表示</target>
+        <source>Mostrar tecnologías Backend</source>
+        
+        <target>バックエンドテクノロジーを表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="244912182611700660" datatype="html">
-        <source>Mostrar tecnologías Frontend</source>\n        <target>Mostrar tecnologías Frontend</target>\n        <target>フロントエンドテクノロジーを表示</target>
+        <source>Mostrar tecnologías Frontend</source>
+        
+        <target>フロントエンドテクノロジーを表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="945099354407511343" datatype="html">
-        <source>Mostrar tecnologías DevOps</source>\n        <target>Mostrar tecnologías DevOps</target>\n        <target>DevOpsテクノロジーを表示</target>
+        <source>Mostrar tecnologías DevOps</source>
+        
+        <target>DevOpsテクノロジーを表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3601128261790248328" datatype="html">
-        <source>Mostrar lenguajes de programación</source>\n        <target>Mostrar lenguajes de programación</target>\n        <target>プログラミング言語を表示</target>
+        <source>Mostrar lenguajes de programación</source>
+        
+        <target>プログラミング言語を表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/features/tech-stack/tech-stack.ts</context>
           <context context-type="linenumber">67</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9024512923600648194" datatype="html">
-        <source>© 2026 Ignacio Gomez Barrios</source>\n        <target>© 2026 Ignacio Gomez Barrios</target>\n        <target>© 2026 Ignacio Gomez Barrios</target>
+        <source>© 2026 Ignacio Gomez Barrios</source>
+        
+        <target>© 2026 Ignacio Gomez Barrios</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/footer/footer.ts</context>
           <context context-type="linenumber">10,11</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1923707058458854709" datatype="html">
-        <source>Perfil de GitHub</source>\n        <target>Perfil de GitHub</target>\n        <target>GitHub プロフィール</target>
+        <source>Perfil de GitHub</source>
+        
+        <target>GitHub プロフィール</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/footer/footer.ts</context>
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1735508094005034957" datatype="html">
-        <source>Perfil de LinkedIn</source>\n        <target>Perfil de LinkedIn</target>\n        <target>LinkedIn プロフィール</target>
+        <source>Perfil de LinkedIn</source>
+        
+        <target>LinkedIn プロフィール</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/footer/footer.ts</context>
           <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1147850309248962084" datatype="html">
-        <source>Cambiar idioma</source>\n        <target>Cambiar idioma</target>\n        <target>言語を変更</target>
+        <source>Cambiar idioma</source>
+        
+        <target>言語を変更</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">36</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.home" datatype="html">
-        <source>Inicio</source>\n        <target>Inicio</target>\n        <target>ホーム</target>
+        <source>Inicio</source>
+        
+        <target>ホーム</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">289</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.about" datatype="html">
-        <source>Sobre mí</source>\n        <target>Sobre mí</target>\n        <target>私について</target>
+        <source>Sobre mí</source>
+        
+        <target>私について</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">290</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.tech" datatype="html">
-        <source>Tecnologías</source>\n        <target>Tecnologías</target>\n        <target>テクノロジー</target>
+        <source>Tecnologías</source>
+        
+        <target>テクノロジー</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">291</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.projects" datatype="html">
-        <source>Proyectos</source>\n        <target>Proyectos</target>\n        <target>プロジェクト</target>
+        <source>Proyectos</source>
+        
+        <target>プロジェクト</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">292</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nav.contact" datatype="html">
-        <source>Contacto</source>\n        <target>Contacto</target>\n        <target>お問い合わせ</target>
+        <source>Contacto</source>
+        
+        <target>お問い合わせ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/layout/header/header.ts</context>
           <context context-type="linenumber">293</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1861697445573597012" datatype="html">
-        <source>E-Commerce API</source>\n        <target>E-Commerce API</target>\n        <target>EコマースAPI</target>
+        <source>E-Commerce API</source>
+        
+        <target>EコマースAPI</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3126302786751252506" datatype="html">
-        <source>REST API for an e-commerce platform featuring product management, cart functionality, and order processing.</source>\n        <target>REST API for an e-commerce platform featuring product management, cart functionality, and order processing.</target>\n        <target>製品管理、カート機能、注文処理を備えたeコマースプラットフォーム用のREST API。</target>
+        <source>REST API for an e-commerce platform featuring product management, cart functionality, and order processing.</source>
+        
+        <target>製品管理、カート機能、注文処理を備えたeコマースプラットフォーム用のREST API。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8873090078516767133" datatype="html">
-        <source>Spring Boot</source>\n        <target>Spring Boot</target>\n        <target>Spring Boot</target>
+        <source>Spring Boot</source>
+        
+        <target>Spring Boot</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">7</context>
@@ -454,7 +576,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4041240970545586823" datatype="html">
-        <source>PostgreSQL</source>\n        <target>PostgreSQL</target>\n        <target>PostgreSQL</target>
+        <source>PostgreSQL</source>
+        
+        <target>PostgreSQL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">7</context>
@@ -465,7 +589,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6317081326606931897" datatype="html">
-        <source>Docker</source>\n        <target>Docker</target>\n        <target>Docker</target>
+        <source>Docker</source>
+        
+        <target>Docker</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">7</context>
@@ -476,21 +602,27 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3245757996551726314" datatype="html">
-        <source>Task Management App</source>\n        <target>Task Management App</target>\n        <target>タスク管理アプリ</target>
+        <source>Task Management App</source>
+        
+        <target>タスク管理アプリ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8012783827381907570" datatype="html">
-        <source>A Kanban-style task manager allowing users to organize their workflow with drag-and-drop support.</source>\n        <target>A Kanban-style task manager allowing users to organize their workflow with drag-and-drop support.</target>\n        <target>ドラッグアンドドロップをサポートし、ワークフローを整理できるカンバン形式のタスクマネージャー。</target>
+        <source>A Kanban-style task manager allowing users to organize their workflow with drag-and-drop support.</source>
+        
+        <target>ドラッグアンドドロップをサポートし、ワークフローを整理できるカンバン形式のタスクマネージャー。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1407426312530771175" datatype="html">
-        <source>React</source>\n        <target>React</target>\n        <target>React</target>
+        <source>React</source>
+        
+        <target>React</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">15</context>
@@ -501,7 +633,9 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4845793289318766506" datatype="html">
-        <source>TypeScript</source>\n        <target>TypeScript</target>\n        <target>TypeScript</target>
+        <source>TypeScript</source>
+        
+        <target>TypeScript</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">15</context>
@@ -516,21 +650,27 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4099802856264938736" datatype="html">
-        <source>Real-Time Chat</source>\n        <target>Real-Time Chat</target>\n        <target>リアルタイムチャット</target>
+        <source>Real-Time Chat</source>
+        
+        <target>リアルタイムチャット</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2350437754125245903" datatype="html">
-        <source>Real-time messaging application enabling concurrent user communication via WebSockets.</source>\n        <target>Real-time messaging application enabling concurrent user communication via WebSockets.</target>\n        <target>WebSocketsを介した同時ユーザー通信を可能にするリアルタイムメッセージングアプリケーション。</target>
+        <source>Real-time messaging application enabling concurrent user communication via WebSockets.</source>
+        
+        <target>WebSocketsを介した同時ユーザー通信を可能にするリアルタイムメッセージングアプリケーション。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5413844363031604083" datatype="html">
-        <source>Java</source>\n        <target>Java</target>\n        <target>Java</target>
+        <source>Java</source>
+        
+        <target>Java</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">23</context>
@@ -541,28 +681,36 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7619965833944259173" datatype="html">
-        <source>WebSockets</source>\n        <target>WebSockets</target>\n        <target>WebSockets</target>
+        <source>WebSockets</source>
+        
+        <target>WebSockets</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9007818352657190226" datatype="html">
-        <source>Portfolio Website</source>\n        <target>Portfolio Website</target>\n        <target>ポートフォリオウェブサイト</target>
+        <source>Portfolio Website</source>
+        
+        <target>ポートフォリオウェブサイト</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4453039167371264070" datatype="html">
-        <source>Personal developer portfolio built with modern Angular, featuring standalone components and signals.</source>\n        <target>Personal developer portfolio built with modern Angular, featuring standalone components and signals.</target>\n        <target>最新のAngularで構築された、スタンドアロンコンポーネントとシグナルを備えた個人の開発者ポートフォリオ。</target>
+        <source>Personal developer portfolio built with modern Angular, featuring standalone components and signals.</source>
+        
+        <target>最新のAngularで構築された、スタンドアロンコンポーネントとシグナルを備えた個人の開発者ポートフォリオ。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8413653130434546022" datatype="html">
-        <source>Angular</source>\n        <target>Angular</target>\n        <target>Angular</target>
+        <source>Angular</source>
+        
+        <target>Angular</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
           <context context-type="linenumber">31</context>
@@ -573,24 +721,246 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7956298290621746062" datatype="html">
-        <source>C/C++</source>\n        <target>C/C++</target>\n        <target>C/C++</target>
+        <source>C/C++</source>
+        
+        <target>C/C++</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8836639825994763424" datatype="html">
-        <source>Haskell</source>\n        <target>Haskell</target>\n        <target>Haskell</target>
+        <source>Haskell</source>
+        
+        <target>Haskell</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7017719389022483276" datatype="html">
-        <source>Python</source>\n        <target>Python</target>\n        <target>Python</target>
+        <source>Python</source>
+        
+        <target>Python</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
           <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    <trans-unit id="146442697456175258" datatype="html">
+        <source>Data</source>
+        <target>データ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="1002165214775409029" datatype="html">
+        <source>Mobile</source>
+        <target>モバイル</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="1653455811146928640" datatype="html">
+        <source>Código privado</source>
+        <target>プライベートコード</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">82,83</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="5349515804446463106" datatype="html">
+        <source>Generación de Contenido con IA</source>
+        <target>AIコンテンツ生成</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="605988419966448161" datatype="html">
+        <source>Módulo de generación de contenido visual con inteligencia artificial, desarrollado en Inverte. Integra la API de OpenAI para generación de imágenes, creación de logos con vectorización automática a SVG y virtual staging de propiedades (amueblado y limpieza de fotos con IA). Incluye presets de estilo, enriquecimiento automático de contexto con datos del proyecto y sistema de metering con límites mensuales por usuario.</source>
+        <target>Inverteで開発されたAIを活用した視覚コンテンツ生成モジュール。画像生成のためのOpenAI API、自動SVGベクター化によるロゴ作成、およびバーチャルプロパティステージング（AIによる家具配置と写真のクリーンアップ）を統合しています。スタイルプリセット、プロジェクトデータを使用した自動コンテキスト強化、ユーザーごとの月間制限付きメータリングシステムが含まれています。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="6126112055175321315" datatype="html">
+        <source>CRM Inmobiliario</source>
+        <target>不動産CRM</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="7615135394524911867" datatype="html">
+        <source>Módulo CRM inmobiliario full-stack desarrollado en Inverte. Incluye tablero Kanban drag &amp; drop para seguimiento de leads con distintos estados, libreta de contactos con búsqueda y filtrado, registro de actividades por lead y generación automática de leads cuando los clientes se contactan desde las planimetrías web — integrando el frontend 3D con el pipeline comercial mediante API REST segura con API Keys.</source>
+        <target>Inverteで開発されたフルスタック不動産CRMモジュール。さまざまなステータスでリードを追跡するためのドラッグ＆ドロップKanbanボード、検索とフィルタリングが可能な連絡帳、リードのアクティビティログ、およびクライアントがWeb平面図から連絡したときの自動リード生成が含まれています。安全なAPIキーを使用したREST APIを介して、3Dフロントエンドと営業パイプラインを統合します。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="5024325702730787849" datatype="html">
+        <source>Planimetría Interactiva de Edificio</source>
+        <target>インタラクティブな建物の平面図</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="6012803969780568874" datatype="html">
+        <source>Aplicación web profesional desarrollada en Inverte para visualización inmobiliaria. Integra un modelo 3D WebGL del edificio (PlayCanvas) con una vista panorámica 360° del entorno y actualizaciones de disponibilidad en tiempo real vía WebSockets. Permite consultar unidades, ver estados (disponible, reservado, vendido, etc.) y contactar brokers, todo desde un entorno 3D inmersivo.</source>
+        <target>不動産視覚化のためにInverteで開発されたプロフェッショナルWebアプリケーション。建物の3D WebGLモデル（PlayCanvas）と周囲の360度パノラマビュー、およびWebSocketsを介したリアルタイムの空室状況更新を統合しています。没入型の3D環境から、ユニットのクエリ、ステータス（空室、予約済み、販売済みなど）の表示、ブローカーへの連絡が可能です。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="6789318425020365735" datatype="html">
+        <source>El Switcher</source>
+        <target>ザ・スイッチャー</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="7281483517503203752" datatype="html">
+        <source>Desarrollo del juego de mesa &quot;El Switcher&quot; usando metodología ágil SCRUM. División frontend/backend con equipo de 6 integrantes para la materia Ingeniería del Software I.</source>
+        <target>SCRUMアジャイル開発手法を使用したボードゲーム「ザ・スイッチャー」の開発。ソフトウェアエンジニアリングIのコース向けに6人のチームでフロントエンド/バックエンドを分割。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="1442330103399790944" datatype="html">
+        <source>Java RSS Pipeline</source>
+        <target>Java RSSパイプライン</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="4589701172664233166" datatype="html">
+        <source>Pipeline de extracción de datos de feeds RSS de noticias que computa entidades nombradas. Incluye implementación paralela con Apache Spark para procesamiento distribuido.</source>
+        <target>固有表現を計算するニュースRSSフィードデータ抽出パイプライン。分散処理のためのApache Sparkを使用した並列実装が含まれています。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="7728947602399315514" datatype="html">
+        <source>Escher DSL</source>
+        <target>Escher DSL</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="2953787182376820776" datatype="html">
+        <source>Diseño e implementación de un DSL en Haskell que permite generar figuras recursivas al estilo de M.C. Escher, componiendo transformaciones geométricas sobre figuras base.</source>
+        <target>基本図形に幾何学的変換を組み合わせることで、M.C.エッシャー風の再帰的図形を生成できるHaskellでのDSLの設計と実装。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="3154847389233789472" datatype="html">
+        <source>MyBash</source>
+        <target>MyBash</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="214989186588302568" datatype="html">
+        <source>Codificación de un shell al estilo Bash en C. Soporta ejecución de comandos en foreground y background, redirección de entrada/salida estándar, y pipes entre comandos.</source>
+        <target>C言語でのBashスタイルシェルのコーディング。フォアグラウンドとバックグラウンドのコマンド実行、標準入出力のリダイレクト、およびコマンド間のパイプをサポートしています。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="402806455542946598" datatype="html">
+        <source>ARM Videogame</source>
+        <target>ARMビデオゲーム</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="2304826755539487523" datatype="html">
+        <source>Implementación del clásico juego del dinosaurio de Google Chrome en LEGv8 Assembly. Proyecto académico de Organización del Computador usando framebuffer en QEMU emulando una Raspberry Pi.</source>
+        <target>LEGv8アセンブリでのクラシックなGoogle Chrome恐竜ゲームの実装。Raspberry PiをエミュレートするQEMUでフレームバッファを使用した、コンピュータ構成の学術プロジェクト。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/projects.data.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="877312088046441452" datatype="html">
+        <source>Ciudad de Córdoba, Argentina.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Disponible para remoto.</source>
+        <target>アルゼンチン、コルドバ市。<x id="LINE_BREAK" equiv-text="&lt;br/&gt;"/>リモートワーク可能。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/contact/contact.ts</context>
+          <context context-type="linenumber">118,119</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="4224149246866287197" datatype="html">
+        <source>Saltar al contenido principal</source>
+        <target>メインコンテンツへスキップ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/layout.ts</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="2991285369465640343" datatype="html">
+        <source>Full-Stack Developer.</source>
+        <target>フルスタック開発者。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/hero/hero.ts</context>
+          <context context-type="linenumber">21,23</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="5822555259572531358" datatype="html">
+        <source>PlayCanvas</source>
+        <target>PlayCanvas</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="6324504154415530832" datatype="html">
+        <source>Redux</source>
+        <target>Redux</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="3636930811048814547" datatype="html">
+        <source>SQLite</source>
+        <target>SQLite</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/data/tech-stack.data.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="2513107783682041353" datatype="html">
+        <source>Systems</source>
+        <target>システム</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="4855224718084434266" datatype="html">
+        <source>Functional</source>
+        <target>関数型</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/features/projects/project-card.ts</context>
+          <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
     </body>
