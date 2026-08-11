@@ -18,7 +18,7 @@ import { ScrollService } from '../../core/scroll.service';
           </h2>
         </div>
         <!-- Accessible alternative to typing effect -->
-        <h2 class="visually-hidden" i18n>Full-Stack Developer. Java & Spring Boot, React & TypeScript. Building robust solutions.</h2>
+        <h2 class="visually-hidden" i18n>Full-Stack Developer.</h2>
 
         <div class="actions">
           <button class="btn btn-primary" (click)="scrollTo('projects')" i18n>Ver proyectos</button>
@@ -30,7 +30,6 @@ import { ScrollService } from '../../core/scroll.service';
       <div class="decorations" aria-hidden="true">
         <div class="circle circle-1"></div>
         <div class="circle circle-2"></div>
-        <div class="shape shape-1"></div>
       </div>
     </section>
   `,
@@ -189,31 +188,13 @@ import { ScrollService } from '../../core/scroll.service';
       animation: float 15s ease-in-out infinite reverse;
     }
 
-    .shape-1 {
-      position: absolute;
-      top: 20%;
-      right: 15%;
-      width: 150px;
-      height: 150px;
-      border: 2px dashed var(--md-sys-color-outline-variant);
-      border-radius: 24px;
-      transform: rotate(15deg);
-      opacity: 0.5;
-      animation: spin 30s linear infinite;
-    }
-
     @keyframes float {
       0%, 100% { transform: translateY(0) scale(1); }
       50% { transform: translateY(-30px) scale(1.05); }
     }
 
-    @keyframes spin {
-      from { transform: rotate(0deg); }
-      to { transform: rotate(360deg); }
-    }
-
     @media (prefers-reduced-motion: reduce) {
-      .btn, .circle, .shape-1, .cursor {
+      .btn, .circle, .cursor {
         transition: none !important;
         animation: none !important;
       }
@@ -229,9 +210,6 @@ export class HeroComponent implements OnDestroy {
 
   phrases = [
     $localize`Full-Stack Developer`, 
-    $localize`Java & Spring Boot`, 
-    $localize`React & TypeScript`, 
-    $localize`Building robust solutions`
   ];
   
   currentText = signal('');
