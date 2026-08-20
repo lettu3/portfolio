@@ -7,7 +7,7 @@ export const TECH_STACK: Tech[] = [
   { name: $localize`React`, categories: ['frontend'], icon: 'assets/icons/react.svg', level: 'professional' },
   { name: $localize`TypeScript`, categories: ['frontend', 'languages'], icon: 'assets/icons/typescript.svg', level: 'professional' },
   { name: $localize`Angular`, categories: ['frontend'], icon: 'assets/icons/angular.svg', level: 'professional' },
-  { name: $localize`PlayCanvas`, categories: ['frontend'], icon: 'assets/icons/playcanvas.svg', level: 'professional' },
+  { name: $localize`PlayCanvas`, categories: ['frontend'], icon: 'assets/icons/playcanvas.png', level: 'professional' },
   { name: $localize`Redux`, categories: ['frontend'], icon: 'assets/icons/redux.svg', level: 'professional' },
   { name: $localize`Docker`, categories: ['devops'], icon: 'assets/icons/docker.svg', level: 'professional' },
   { name: $localize`C/C++`, categories: ['languages'], icon: 'assets/icons/c.svg', level: 'academic' },
