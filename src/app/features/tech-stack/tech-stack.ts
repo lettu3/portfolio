@@ -102,7 +102,6 @@ type TechCategory = 'all' | 'backend' | 'frontend' | 'devops' | 'languages';
 
     .filters-container {
       display: flex;
-      justify-content: center;
       margin-bottom: 3rem;
       overflow-x: auto;
       padding-bottom: 0.5rem;
@@ -112,7 +111,7 @@ type TechCategory = 'all' | 'backend' | 'frontend' | 'devops' | 'languages';
     .filters {
       list-style: none;
       padding: 0;
-      margin: 0;
+      margin: 0 auto;
       display: flex;
       gap: 1rem;
     }
